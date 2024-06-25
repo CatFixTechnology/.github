@@ -1,6 +1,6 @@
 # So This Is The Member Only README file
 
-## Location is not in the profile folder
+## Location is not in the .github repo! You have to create a repo called .gihub private
 
 
 
